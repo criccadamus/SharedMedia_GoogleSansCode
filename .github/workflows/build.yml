@@ -1,6 +1,7 @@
 name: Package addon
 
 on:
+  workflow_dispatch:
   push:
     tags:
       - '*'
