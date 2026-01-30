@@ -2,11 +2,11 @@
 
 - Add the Google Sans Code fonts to `libsharedmedia`-compatible addons.
 
-![Font dropdown example](images/font-dropdown-example.png)
+![Font dropdown example](../images/font-dropdown-example.png)
 
 ## Google Sans Code
 
-![Google Sans Code example](images/google-sans-code.png)
+![Google Sans Code example](../images/google-sans-code.png)
 
 - Google Sans Code is a monospaced typeface from Google designed for code.
 
